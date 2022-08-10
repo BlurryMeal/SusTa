@@ -81,8 +81,8 @@
 						<img src="@/assets/img/mockup2.svg" alt="" draggable="false" style="width:100%; margin-top:5em; margin-left:-4em" />
 					</div>
 					<div class="six columns">
-						<h2 class="zero allfeat">All Filters</h2>
-						<p>Filters to enhance your music experience</p>
+						<h2 class="zero allfeat">All Collections</h2>
+						<p>Shoe Collections to enhance your life.</p>
 						<!-- <p>Premium features, free of cost</p> -->
 
 						<div class="featgrid">

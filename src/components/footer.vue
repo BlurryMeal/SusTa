@@ -1,7 +1,7 @@
 <template>
 	<div class="flexfoot">
 		<div class="col left">
-			<p class="zero">&copy; MINET</p>
+			<p class="zero">Made with ❤️ by MINET</p>
 		</div>
 
 		<div class="col icon">
